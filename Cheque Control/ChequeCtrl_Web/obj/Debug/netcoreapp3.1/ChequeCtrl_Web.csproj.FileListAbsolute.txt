@@ -48,9 +48,11 @@ D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Micro
 D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Npgsql.dll
-D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
 D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\obj\Debug\netcoreapp3.1\ChequeCtrl_Web.csprojAssemblyReference.cache
+D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\C#\Cheque-Control\Cheque Control\ChequeCtrl_Web\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll

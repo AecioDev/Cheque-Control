@@ -11,7 +11,7 @@ namespace ChequeCtrl_Web.Dados.Configuration
             etb.ToTable("BANCOS");
             etb.HasKey(b => b.Id).HasName("PK_Bancos");
             etb.Property(b => b.Id).HasColumnName("Id").ValueGeneratedOnAdd();
-            etb.Property(b => b.Codigo).HasColumnName("Codigo");
+            etb.Property(b => b.Codigo).HasColumnName("Codigo").HasColumnType("varchar").HasMaxLength(3);
             etb.Property(p => p.Nome).HasColumnName("Nome").HasColumnType("varchar").HasMaxLength(50);
         }
     }

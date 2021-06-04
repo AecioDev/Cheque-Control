@@ -21,7 +21,7 @@ namespace ChequeCtrl_Web.Dados.Configuration
             etb.Property(a => a.Folha).HasColumnName("Folha");
             etb.Property(a => a.Valor).HasColumnName("Valor").HasColumnType("money");
             etb.Property(a => a.Emissao).HasColumnName("Emissao").HasColumnType("date");
-            etb.Property(a => a.Emissao).HasColumnName("Vencimento").HasColumnType("date");
+            etb.Property(a => a.Vencimento).HasColumnName("Vencimento").HasColumnType("date");
             etb.Property(a => a.Tipo).HasColumnName("Tipo").HasColumnType("char(1)");
             etb.Property(a => a.Situacao).HasColumnName("Situacao").HasColumnType("char(1)");
             etb.Property(a => a.Passou_Para).HasColumnName("Passou_Pra_Quem");

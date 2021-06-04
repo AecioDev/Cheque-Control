@@ -11,10 +11,8 @@ namespace ChequeCtrl_Web.Dados.Context
 
         protected override void OnModelCreating(ModelBuilder mb)
         {
-
-            mb.UseIdentityColumns();
             mb.HasDefaultSchema("chq");
-
+            
             mb.ApplyConfiguration(new BancoConf());
             mb.ApplyConfiguration(new ChequeConf());
             mb.ApplyConfiguration(new PessoaConf());

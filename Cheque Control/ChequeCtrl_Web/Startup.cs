@@ -28,8 +28,8 @@ namespace ChequeCtrl_Web
             services.AddControllersWithViews();
 
             services.AddDbContext<ChequeContext>(options =>
-                  options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")
-                , o => o.SetPostgresVersion(new Version(9, 5))));
+                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"),
+                options => options.SetPostgresVersion(new Version(9, 6))));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
